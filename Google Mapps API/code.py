@@ -89,7 +89,7 @@ def search_businesses(api_key, keyword, location):
 
 
 # Enter your Google Maps API key here
-api_key = 'AIzaSyB4uUDn5nqFj1UxupkZRF3ZQHKFGZ4jpnk'
+api_key = 'api key'
 
 # Ensure your API key is authenticated
 try:
